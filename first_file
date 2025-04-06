@@ -1,3 +1,14 @@
 Console.WriteLine("Tabeen Shah");
 Console.WriteLine("24-ST-061");
+     2nd-Semester-Subjects
+Console.WriteLine("2nd Semester Subjects:");
+Console.WriteLine("OOP");
+Console.WriteLine("Software Configuration Management");
+Console.WriteLine("THQ");
+Console.WriteLine("Discrete Structures");
+Console.WriteLine("SDLC");
+Console.WriteLine("Functional English");
+Console.WriteLine("Probability & Statistics");
+      1st-Semester-Subjects
 Console.WriteLine("1st Semester Subjects: Calculus, CP, ITS, Applied Physics, Islamiat, EHS");
+ 1st-Semester-Subjects
